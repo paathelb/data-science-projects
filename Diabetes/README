@@ -11,5 +11,4 @@ Here are the attributes: (all numeric-valued)
    8. Age (years)
    9. Class variable (0 or 1)
    
-I did hyperparameter tuning of the regularizers (L2 and dropout) of the Keras model to perform classification using real-life dataset
-with improved accuracy. I also determined the optimal batch_size and epochs.
+I did hyperparameter tuning of the regularizers (L2 and dropout) of the Keras model to perform classification using real-life dataset with improved accuracy. I also determined the optimal batch_size and epochs.
