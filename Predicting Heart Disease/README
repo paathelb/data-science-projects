@@ -1,1 +1,6 @@
 
+The dataset comes from UCI Machine Learning Repository that represents information such as age, sex, chest pain type (4 values), 
+resting blood pressure, serum cholestoral in mg/dl, and whether a person has a heart disease (denoted by 0) or not.
+
+The goal is to build a Keras model that will predict whether a person has a heart disease or not using Artificial Neural Network. More
+specifically, Early Stopping callback was used to prevent the model from overfitting the training data.
